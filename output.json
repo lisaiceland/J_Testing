@@ -1,0 +1,3334 @@
+﻿{
+  "#comment": "",
+  "html": {
+    "head": {
+      "#comment": "",
+      "meta": [
+        {
+          "@charset": "UTF-8"
+        },
+        {
+          "@http-equiv": "X-UA-Compatible",
+          "@content": "IE=edge"
+        },
+        {
+          "@name": "generator",
+          "@content": "Mobirise v4.10.5, mobirise.com"
+        },
+        {
+          "@name": "viewport",
+          "@content": "width=device-width, initial-scale=1, minimum-scale=1"
+        },
+        {
+          "@name": "description",
+          "@content": "Lisaiceland Katlania Home"
+        },
+        {
+          "@name": "theme-color",
+          "@content": "#ff3366"
+        }
+      ],
+      "link": [
+        {
+          "@rel": "shortcut icon",
+          "@href": "assets/images/lisaiceland-logo-only-122x122.png",
+          "@type": "image/x-icon"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/web/assets/mobirise-icons2/mobirise2.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/linecons/style.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/icon54-v2/style.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/font-awesome/css/font-awesome.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/simple-line-icons/simple-line-icons.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/web/assets/mobirise-icons/mobirise-icons.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/icon54/style.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/bootstrap-material-design-font/css/material.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/icons-mind/style.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/tether/tether.min.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/bootstrap/css/bootstrap.min.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/bootstrap/css/bootstrap-grid.min.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/bootstrap/css/bootstrap-reboot.min.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/soundcloud-plugin/style.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/gdpr-plugin/gdpr-styles.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/as-pie-progress/css/progress.min.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/shopping-cart/minicart-theme.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/dropdown/css/style.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/socicon/css/styles.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/theme/css/style.css"
+        },
+        {
+          "@rel": "stylesheet",
+          "@href": "assets/mobirise/css/mbr-additional.css",
+          "@type": "text/css"
+        },
+        {
+          "@rel": "manifest",
+          "@href": "manifest.json"
+        }
+      ],
+      "title": "Lisaiceland Home",
+      "style": ".async-hide { opacity: 0 !important}",
+      "script": [
+        "(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;\nh.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};\n(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;\n})(window,document.documentElement,'async-hide','dataLayer',4000,\n{'GTM-K8DJHP7':true});",
+        {
+          "@src": "sw-connect.js"
+        }
+      ]
+    },
+    "body": {
+      "#comment": [
+        "",
+        "",
+        ""
+      ],
+      "script": [
+        {
+          "@async": "",
+          "@src": "https://www.googletagmanager.com/gtag/js?id=UA-60006201-6"
+        },
+        "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-60006201-6');",
+        {
+          "@src": "assets/web/assets/jquery/jquery.min.js"
+        },
+        {
+          "@src": "assets/popper/popper.min.js"
+        },
+        {
+          "@src": "assets/tether/tether.min.js"
+        },
+        {
+          "@src": "assets/bootstrap/js/bootstrap.min.js"
+        },
+        {
+          "@src": "assets/mbr-tabs/mbr-tabs.js"
+        },
+        {
+          "@src": "assets/smoothscroll/smooth-scroll.js"
+        },
+        {
+          "@src": "assets/viewportchecker/jquery.viewportchecker.js"
+        },
+        {
+          "@src": "assets/countdown/jquery.countdown.min.js"
+        },
+        {
+          "@src": "assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"
+        },
+        {
+          "@src": "assets/mbr-clients-slider/mbr-clients-slider.js"
+        },
+        {
+          "@src": "assets/cookies-alert-plugin/cookies-alert-core.js"
+        },
+        {
+          "@src": "assets/cookies-alert-plugin/cookies-alert-script.js"
+        },
+        {
+          "@src": "assets/as-pie-progress/jquery-as-pie-progress.min.js"
+        },
+        {
+          "@src": "assets/dropdown/js/nav-dropdown.js"
+        },
+        {
+          "@src": "assets/dropdown/js/navbar-dropdown.js"
+        },
+        {
+          "@src": "assets/touchswipe/jquery.touch-swipe.min.js"
+        },
+        {
+          "@src": "assets/parallax/jarallax.min.js"
+        },
+        {
+          "@src": "assets/popup-ontimer-plugin/script.js"
+        },
+        {
+          "@src": "assets/popup-overlay-plugin/script.js"
+        },
+        {
+          "@src": "assets/theme/js/script.js"
+        },
+        {
+          "@src": "assets/formoid/formoid.min.js"
+        },
+        "(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n  ga('create', 'UA-60006201-6', 'auto');\n  ga('require', 'GTM-K8DJHP7');\n  ga('send', 'pageview');",
+        {
+          "@type": "text/javascript",
+          "@src": "https://s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.js"
+        },
+        {
+          "@type": "text/javascript",
+          "#text": "FreshWidget.init(\"\", {\"queryString\": \"&widgetType=popup&formTitle=Send+Us+Quick+Note&submitTitle=Send+Now&submitThanks=Thank+you+for+your+feedback!+We'll+be+in+touch+soon.&screenshot=no&attachFile=no&captcha=yes\", \"utf8\": \"✓\", \"widgetType\": \"popup\", \"buttonType\": \"text\", \"buttonText\": \"Send Us Quick Note\", \"buttonColor\": \"black\", \"buttonBg\": \"#FFFFFF\", \"alignment\": \"4\", \"offset\": \"235px\", \"submitThanks\": \"Thank you for your feedback! We'll be in touch soon.\", \"formHeight\": \"500px\", \"screenshot\": \"no\", \"captcha\": \"yes\", \"url\": \"https://lisakristinardottir.freshdesk.com\"} );"
+        }
+      ],
+      "section": [
+        {
+          "@class": "menu cid-rv6icDKFXX",
+          "@once": "menu",
+          "@id": "menu01-1",
+          "nav": {
+            "@class": "navbar navbar-dropdown navbar-fixed-top navbar-expand-lg",
+            "div": [
+              {
+                "@class": "navbar-brand",
+                "span": {
+                  "@class": "navbar-logo",
+                  "a": {
+                    "@href": "index.html#header03-18",
+                    "img": {
+                      "@src": "assets/images/lisaiceland-logo-only-122x122.png",
+                      "@alt": "Mobirise",
+                      "@title": "",
+                      "@style": "height: 5.4rem;"
+                    }
+                  }
+                }
+              },
+              {
+                "@class": "collapse navbar-collapse",
+                "@id": "navbarSupportedContent",
+                "ul": {
+                  "@class": "navbar-nav nav-dropdown",
+                  "@data-app-modern-menu": "true",
+                  "li": [
+                    {
+                      "@class": "nav-item",
+                      "a": {
+                        "@class": "nav-link link text-success display-4",
+                        "@href": "index.html#features014-q",
+                        "@aria-expanded": "false",
+                        "span": {
+                          "@class": "sli-people mbr-iconfont mbr-iconfont-btn"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "nav-item",
+                      "a": {
+                        "@class": "nav-link link text-success display-4",
+                        "@href": "index.html#image01-1r",
+                        "@aria-expanded": "false",
+                        "span": {
+                          "@class": "mbri-idea mbr-iconfont mbr-iconfont-btn"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "nav-item",
+                      "a": {
+                        "@class": "nav-link link text-success display-4",
+                        "@href": "tcocalculator.html#header02-1v",
+                        "@aria-expanded": "false",
+                        "span": {
+                          "@class": "icon54-v1-search-money mbr-iconfont mbr-iconfont-btn"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "nav-item dropdown",
+                      "a": {
+                        "@class": "nav-link link text-success dropdown-toggle display-4",
+                        "@href": "#top",
+                        "@aria-expanded": "false",
+                        "@data-toggle": "dropdown-submenu",
+                        "span": {
+                          "@class": "imind-calculator-2 mbr-iconfont mbr-iconfont-btn"
+                        }
+                      },
+                      "div": {
+                        "@class": "dropdown-menu",
+                        "a": [
+                          {
+                            "@class": "text-success dropdown-item display-4",
+                            "@href": "weight-gain-calculator.html#header02-1x",
+                            "@aria-expanded": "false",
+                            "#text": "Weight Gain"
+                          },
+                          {
+                            "@class": "text-success dropdown-item display-4",
+                            "@href": "bmicalculator.html#header10-1r",
+                            "@aria-expanded": "false",
+                            "#text": "BMI"
+                          },
+                          {
+                            "@class": "text-success dropdown-item display-4",
+                            "@href": "https://tools.bcsc-scc.org/bc5yearrisk/calculator.htm",
+                            "@aria-expanded": "false",
+                            "@target": "_blank",
+                            "#text": "Breast Cancer"
+                          },
+                          {
+                            "@class": "text-success dropdown-item display-4",
+                            "@href": "https://bcrisktool.cancer.gov/calculator.html",
+                            "@aria-expanded": "false",
+                            "@target": "_blank",
+                            "#text": "NIH Cancer Risk"
+                          },
+                          {
+                            "@class": "text-success dropdown-item display-4",
+                            "@href": "https://www.mycanceriq.ca/Cancers/Risk",
+                            "@aria-expanded": "false",
+                            "@target": "_blank",
+                            "#text": "myCancerIQ"
+                          },
+                          {
+                            "@class": "text-success dropdown-item display-4",
+                            "@href": "https://www.calculators.org/health/cancer.php#overview",
+                            "@aria-expanded": "false",
+                            "@target": "_blank",
+                            "#text": "Other Calcs"
+                          },
+                          {
+                            "@class": "text-success dropdown-item display-4",
+                            "@href": "https://siteman.wustl.edu/prevention/ydr/",
+                            "@aria-expanded": "false",
+                            "@target": "_blank",
+                            "#text": "Disease Risk"
+                          }
+                        ],
+                        "div": {
+                          "@class": "dropdown",
+                          "a": {
+                            "@class": "text-success dropdown-item dropdown-toggle display-4",
+                            "@href": "#top",
+                            "@aria-expanded": "false",
+                            "@data-toggle": "dropdown-submenu",
+                            "#text": "Cancer 2019"
+                          },
+                          "div": {
+                            "@class": "dropdown-menu dropdown-submenu",
+                            "a": [
+                              {
+                                "@class": "text-success dropdown-item display-4",
+                                "@href": "http://bit.ly/Cancer_Facts_Figures_2019",
+                                "@aria-expanded": "false",
+                                "@target": "_blank",
+                                "#text": "Facts"
+                              },
+                              {
+                                "@class": "text-success dropdown-item display-4",
+                                "@href": "http://bit.ly/Cancer_Stats_2019",
+                                "@aria-expanded": "false",
+                                "@target": "_blank",
+                                "#text": "Paper"
+                              },
+                              {
+                                "@class": "text-success dropdown-item display-4",
+                                "@href": "http://bit.ly/Cancer_Stats_Presentation_2019",
+                                "@aria-expanded": "false",
+                                "@target": "_blank",
+                                "#text": "Fast Stats"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "@class": "nav-item dropdown",
+                      "a": {
+                        "@class": "nav-link link text-success dropdown-toggle display-4",
+                        "@href": "#top",
+                        "@aria-expanded": "false",
+                        "@data-toggle": "dropdown-submenu",
+                        "span": {
+                          "@class": "imind-information mbr-iconfont mbr-iconfont-btn"
+                        }
+                      },
+                      "div": {
+                        "@class": "dropdown-menu",
+                        "a": [
+                          {
+                            "@class": "text-success dropdown-item display-4",
+                            "@href": "index.html#testimonials06-1p",
+                            "@aria-expanded": "false",
+                            "#text": "Privacy"
+                          },
+                          {
+                            "@class": "text-success dropdown-item display-4",
+                            "@href": "https://lisaiceland.podbean.com/",
+                            "@aria-expanded": "false",
+                            "@target": "_blank",
+                            "#text": "Podcast"
+                          },
+                          {
+                            "@class": "text-success dropdown-item display-4",
+                            "@href": "sla-uptime.html#header02-2b",
+                            "@aria-expanded": "false",
+                            "#text": "Uptime"
+                          },
+                          {
+                            "@class": "text-success dropdown-item display-4",
+                            "@href": "https://trello.com/b/H2ZRycNu/lisaiceland-public-roadmap",
+                            "@aria-expanded": "false",
+                            "@target": "_blank",
+                            "#text": "Roadmap"
+                          },
+                          {
+                            "@class": "text-success dropdown-item display-4",
+                            "@href": "oceanbrrok-designs.html#header08-22",
+                            "@aria-expanded": "false",
+                            "#text": "Gear"
+                          },
+                          {
+                            "@class": "text-success dropdown-item display-4",
+                            "@href": "https://docs.google.com/document/d/1WFyhNA7nwNMU4x9gicVKFdRa88p2lkgLUatn0Ddd1tc/edit",
+                            "@aria-expanded": "false",
+                            "@target": "_blank",
+                            "#text": "Admin"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@class": "nav-item dropdown",
+                      "a": {
+                        "@class": "nav-link link text-success dropdown-toggle display-4",
+                        "@href": "https://lisaiceland.typeform.com/to/qBHrYi",
+                        "@aria-expanded": "false",
+                        "@target": "_blank",
+                        "@data-toggle": "dropdown-submenu",
+                        "span": {
+                          "@class": "icon54-v1-chat-help1 mbr-iconfont mbr-iconfont-btn"
+                        }
+                      },
+                      "div": {
+                        "@class": "dropdown-menu",
+                        "a": [
+                          {
+                            "@class": "text-success dropdown-item display-4",
+                            "@href": "https://lisaiceland.typeform.com/to/qBHrYi",
+                            "@aria-expanded": "false",
+                            "@target": "_blank",
+                            "#text": "Contact"
+                          },
+                          {
+                            "@class": "text-success dropdown-item display-4",
+                            "@href": "https://lisaiceland.typeform.com/to/qBHrYi",
+                            "@aria-expanded": "false",
+                            "@target": "_blank",
+                            "#text": "Chat"
+                          },
+                          {
+                            "@class": "text-success dropdown-item display-4",
+                            "@href": "https://lisaiceland.typeform.com/to/qBHrYi",
+                            "@aria-expanded": "false",
+                            "@target": "_blank",
+                            "#text": "Subscribe"
+                          },
+                          {
+                            "@class": "text-success dropdown-item display-4",
+                            "@href": "https://lisakristinardottir.freshdesk.com",
+                            "@aria-expanded": "false",
+                            "@target": "_blank",
+                            "#text": "Forum"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "div": [
+                  {
+                    "@class": "icons-menu",
+                    "a": {
+                      "@href": "avapage.html#header05-21",
+                      "span": {
+                        "@class": "p-2 mbr-iconfont sli-microphone",
+                        "@style": "color: rgb(255, 51, 102); fill: rgb(255, 51, 102);"
+                      }
+                    }
+                  },
+                  {
+                    "@class": "navbar-buttons px-2 mbr-section-btn",
+                    "a": {
+                      "@class": "btn btn-sm btn-primary display-4",
+                      "@href": "https://lisakristinardottir.freshdesk.com",
+                      "@target": "_blank",
+                      "span": {
+                        "@class": "imind-support mbr-iconfont mbr-iconfont-btn"
+                      },
+                      "#text": "SUPPORT"
+                    }
+                  }
+                ]
+              }
+            ],
+            "button": {
+              "@class": "navbar-toggler",
+              "@type": "button",
+              "@data-toggle": "collapse",
+              "@data-target": "#navbarSupportedContent",
+              "@aria-controls": "navbarNavAltMarkup",
+              "@aria-expanded": "false",
+              "@aria-label": "Toggle navigation",
+              "div": {
+                "@class": "hamburger",
+                "span": [
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@class": "cid-rv6xrCnZDf",
+          "@id": "header03-18",
+          "svg": {
+            "@xmlns": "http://www.w3.org/2000/svg",
+            "@xmlns:xlink": "http://www.w3.org/1999/xlink",
+            "@width": "1380",
+            "@height": "810px",
+            "@viewbox": "0 -8.992806499463768e-14 1380 810",
+            "@preserveaspectratio": "xMidYMid meet",
+            "rect": {
+              "@id": "svgEditorBackground",
+              "@x": "0",
+              "@y": "0",
+              "@width": "1380",
+              "@height": "810",
+              "@style": "fill: none; stroke: none;"
+            },
+            "defs": {
+              "@id": "svgEditorDefs",
+              "polygon": {
+                "@id": "svgEditorShapeDefs",
+                "@style": "fill:khaki;stroke:black;vector-effect:non-scaling-stroke;stroke-width:1px;"
+              },
+              "path": {
+                "@id": "svgEditorClosePathDefs",
+                "@style": "stroke:black;stroke-width:1px;fill:khaki;"
+              }
+            },
+            "path": [
+              {
+                "@d": "M15083.791600683318,645.6720847341486c496.6000000000058,747.7999999999951,1953.3704016668416,1862.6734725832403,2751.999999999978,1967.9999999999955s1884.300000000003,-198.89999999999964,2718.7056474818382,-552.6365690040448s1746.4898225846773,-519.9524548776521,2593.2943525181545,-567.3634309959566s2251,-23.399999999999636,4384,1520.0000000000032s3205.199999999997,1437.2000000000025,4047.9999999999854,1520.0000000000018s3305.000000000029,-270.2999999999993,4640.000000000029,-1152s74.60000000000582,3328.3000000000065,32,3792.0000000000073s-19509.4,4591.000000000004,-21087.999999999993,-128.00000000000182s-1679.5999999999913,-6358.300000000001,-80,-6400Z",
+                "@style": "stroke:black;fill:khaki;stroke-width:0px;",
+                "@id": "e12_areaS3",
+                "@transform": "matrix(0.0650006 -0.00123765 0.00123765 0.0650006 -995.543 317.589)"
+              },
+              {
+                "@d": "M12434.469938292996,-979.2324603008726c496.600000000004,747.8000000000001,1953.3704016668398,1862.673472583247,2752.000000000018,1967.9999999999995s1884.2999999999865,-198.90000000000055,2718.7056474818364,-552.6365690040473s1746.4898225846846,-519.9524548776479,2593.2943525181618,-567.3634309959524s2251,-23.400000000001455,4384,1520s3205.199999999997,1437.1999999999962,4048,1519.9999999999955s3304.9999999999927,-270.3000000000011,4640,-1151.9999999999955s74.60000000000582,3328.3,32,3791.9999999999955s-19509.400000000023,4590.999999999997,-21088.000000000015,-127.99999999999818s-1679.5999999999985,-6358.300000000008,-80,-6400.0000000000055Z",
+                "@style": "stroke:black;fill:aqua;stroke-width:0px;",
+                "@id": "e19_areaS3",
+                "@transform": "matrix(0.0647268 0.00608646 -0.00608646 0.0647268 -823.261 331.266)"
+              }
+            ],
+            "text": {
+              "@dy": "-0.5em",
+              "@style": "fill:black;font-family:Arial;font-size:20px;",
+              "@id": "e14_texte",
+              "@transform": "matrix(0.0640454 0 0 0.0640454 -832.187 329.878)",
+              "textpath": {
+                "@id": "e13_textPath",
+                "@xlink:href": "#e12_areaS3",
+                "#text": "T"
+              }
+            }
+          },
+          "div": [
+            {
+              "@class": "box"
+            },
+            {
+              "@class": "container align-center",
+              "div": {
+                "@class": "row",
+                "div": [
+                  {
+                    "@class": "col-md-12 col-lg-6 py-4 m-auto",
+                    "h1": {
+                      "@class": "mbr-section-title mbr-regular pb-3 align-left mbr-fonts-style display-1",
+                      "a": {
+                        "@href": "index.html#testimonials06-1i",
+                        "@class": "text-primary",
+                        "#text": "I"
+                      },
+                      "br": "",
+                      "#text": "mpactful"
+                    },
+                    "div": {
+                      "@class": "align-left mbr-section-btn",
+                      "a": {
+                        "@class": "btn btn-md btn-primary display-7",
+                        "@href": "index.html#title02-1q",
+                        "span": {
+                          "@class": "mbri-idea mbr-iconfont mbr-iconfont-btn"
+                        },
+                        "#text": "SOLUTIONS"
+                      }
+                    }
+                  },
+                  {
+                    "@class": "col-lg-6 col-md-12 align-center",
+                    "a": {
+                      "@href": "index.html#title02-1q",
+                      "img": {
+                        "@src": "assets/images/aiehr-500x500.png",
+                        "@alt": "Mobirise",
+                        "@title": ""
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "@class": "cid-rwwHIoFY3Y mbr-parallax-background",
+          "@id": "title02-1q",
+          "div": [
+            {
+              "@class": "mbr-overlay",
+              "@style": "background-color: rgb(35, 35, 35); opacity: 0.4;"
+            },
+            {
+              "@class": "container align-center",
+              "div": {
+                "@class": "row justify-content-md-start justify-content-md-center",
+                "div": {
+                  "@class": "mbr-white col-sm-12 col-md-10 col-lg-7",
+                  "h1": {
+                    "@class": "mbr-section-title mbr-regular align-center mbr-fonts-style display-1",
+                    "a": {
+                      "@href": "index.html#testimonials06-1i",
+                      "@class": "text-primary",
+                      "#text": "W"
+                    },
+                    "#text": "elcome"
+                  },
+                  "p": {
+                    "@class": "mbr-text mbr-light align-center mbr-fonts-style pt-3 display-5",
+                    "br": "",
+                    "#text": [
+                      "Lisaiceland",
+                      "Katlania"
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@class": "cid-rv6EJHHn5M",
+          "@id": "testimonials06-1i",
+          "div": {
+            "@class": "container",
+            "div": {
+              "@class": "row",
+              "div": {
+                "@class": "col-md-12 col-lg-12",
+                "span": [
+                  {
+                    "@class": "mbr-iconfont ico1 mobi-mbri-quote-left mobi-mbri",
+                    "@style": "color: rgb(87, 70, 139); fill: rgb(87, 70, 139);"
+                  },
+                  {
+                    "@class": "mbr-iconfont  ico2 mobi-mbri-quote-left mobi-mbri",
+                    "@style": "color: rgb(87, 70, 139); fill: rgb(87, 70, 139);"
+                  }
+                ],
+                "p": {
+                  "@class": "mbr-text mbr-semibold pb-1 align-left mbr-fonts-style display-5",
+                  "#text": "Somewhere, something incredible is waiting to be known."
+                },
+                "h3": {
+                  "@class": "mbr-section-subtitle align-left mbr-semibold mbr-fonts-style display-4",
+                  "#text": "CARL SAGAN"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@class": "features1 cid-rv6nMrSRZv",
+          "@id": "features014-q",
+          "div": {
+            "@class": "container",
+            "div": {
+              "@class": "row justify-content-center",
+              "div": [
+                {
+                  "@class": "col-md-12 col-lg-10"
+                },
+                {
+                  "@class": "card cardcolor p-3 col-12 col-md-6 col-lg-4",
+                  "div": {
+                    "@class": "card-wrapper",
+                    "div": [
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "index.html#tabs02-1d",
+                          "span": {
+                            "@class": "mbr-iconfont ico1 mbri-devices",
+                            "@style": "color: rgb(87, 70, 139); fill: rgb(87, 70, 139);"
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box",
+                        "h3": {
+                          "@class": "card-title align-left mbr-fonts-style display-5",
+                          "a": {
+                            "@href": "index.html#tabs02-1d",
+                            "@class": "text-primary",
+                            "#text": "A"
+                          },
+                          "#text": "pps"
+                        }
+                      },
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "index.html#tabs02-1d",
+                          "span": {
+                            "@class": "mbr-iconfont ico2 mobi-mbri-right mobi-mbri"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "card cardcolor p-3 col-12 col-md-6 col-lg-4",
+                  "div": {
+                    "@class": "card-wrapper",
+                    "div": [
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "index.html#tabs02-1d",
+                          "span": {
+                            "@class": "mbr-iconfont ico1 mbri-code",
+                            "@style": "color: rgb(85, 128, 255); fill: rgb(85, 128, 255);"
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box",
+                        "h3": {
+                          "@class": "card-title align-left mbr-fonts-style display-5",
+                          "a": {
+                            "@href": "index.html#tabs02-1d",
+                            "@class": "text-primary",
+                            "#text": "A"
+                          },
+                          "#text": "PIs"
+                        }
+                      },
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "index.html#tabs02-1d",
+                          "span": {
+                            "@class": "mbr-iconfont ico2 mobi-mbri-right mobi-mbri"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "card cardcolor p-3 col-12 col-md-6 col-lg-4",
+                  "div": {
+                    "@class": "card-wrapper",
+                    "div": [
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "index.html#tabs02-1d",
+                          "span": {
+                            "@class": "mbr-iconfont ico1 imind-brain-2",
+                            "@style": "color: rgb(255, 138, 115); fill: rgb(255, 138, 115);"
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box",
+                        "h3": {
+                          "@class": "card-title align-left mbr-fonts-style display-5",
+                          "a": {
+                            "@href": "index.html#tabs02-1d",
+                            "@class": "text-primary",
+                            "#text": "A"
+                          },
+                          "#text": "I"
+                        }
+                      },
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "index.html#tabs02-1d",
+                          "span": {
+                            "@class": "mbr-iconfont ico2 mobi-mbri-right mobi-mbri"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@class": "tabs1 cid-rv6zmM5V5J",
+          "@id": "tabs02-1d",
+          "div": {
+            "@class": "container",
+            "h2": {
+              "@class": "align-left pb-5 mbr-fonts-style display-2",
+              "a": {
+                "@href": "index.html#tabs02-1d",
+                "@class": "text-primary",
+                "#text": "A"
+              },
+              "#text": "bout"
+            },
+            "div": {
+              "@class": "row",
+              "div": {
+                "@class": "col-12 col-md-12",
+                "ul": {
+                  "@class": "nav nav-tabs",
+                  "@role": "tablist",
+                  "li": [
+                    {
+                      "@class": "nav-item first",
+                      "a": {
+                        "@class": "nav-link mbr-fonts-style active display-4",
+                        "@role": "tab",
+                        "@data-toggle": "tab",
+                        "@href": "#tabs02-1d_tab0",
+                        "@aria-selected": "true",
+                        "span": {
+                          "@class": "mbri-cursor-click mbr-iconfont mbr-iconfont-btn"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "nav-item",
+                      "a": {
+                        "@class": "nav-link mbr-fonts-style active display-4",
+                        "@role": "tab",
+                        "@data-toggle": "tab",
+                        "@href": "#tabs02-1d_tab1",
+                        "@aria-selected": "true",
+                        "span": {
+                          "@class": "imind-statistic mbr-iconfont mbr-iconfont-btn"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "nav-item",
+                      "a": {
+                        "@class": "nav-link mbr-fonts-style active display-4",
+                        "@role": "tab",
+                        "@data-toggle": "tab",
+                        "@href": "#tabs02-1d_tab2",
+                        "@aria-selected": "true",
+                        "span": {
+                          "@class": "mbri-idea mbr-iconfont mbr-iconfont-btn"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "nav-item",
+                      "a": {
+                        "@class": "nav-link mbr-fonts-style active display-4",
+                        "@role": "tab",
+                        "@data-toggle": "tab",
+                        "@href": "#tabs02-1d_tab3",
+                        "@aria-selected": "true",
+                        "span": {
+                          "@class": "fa fa-connectdevelop mbr-iconfont mbr-iconfont-btn"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "nav-item",
+                      "a": {
+                        "@class": "nav-link mbr-fonts-style display-4",
+                        "@role": "tab",
+                        "@data-toggle": "tab",
+                        "@href": "#tabs02-1d_tab4",
+                        "@aria-selected": "false",
+                        "span": {
+                          "@class": "mbri-users mbr-iconfont mbr-iconfont-btn"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "nav-item",
+                      "a": {
+                        "@class": "nav-link mbr-fonts-style active display-4",
+                        "@role": "tab",
+                        "@data-toggle": "tab",
+                        "@href": "#tabs02-1d_tab5",
+                        "@aria-selected": "true",
+                        "span": {
+                          "@class": "mbri-database mbr-iconfont mbr-iconfont-btn"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "div": {
+                  "@class": "tab-content",
+                  "div": [
+                    {
+                      "@id": "tab1",
+                      "@class": "tab-pane in active",
+                      "@role": "tabpanel",
+                      "div": {
+                        "@class": "row",
+                        "div": {
+                          "@class": "col-md-12",
+                          "p": {
+                            "@class": "mbr-text pt-4 mbr-fonts-style display-4",
+                            "a": [
+                              {
+                                "@href": "index.html#tabs02-1d",
+                                "@class": "text-info"
+                              },
+                              {
+                                "@href": "index.html#features01-19",
+                                "@class": "text-primary",
+                                "#text": "Lisaiceland"
+                              },
+                              {
+                                "@href": "https://en.wikipedia.org/wiki/Katla_(volcano)",
+                                "@target": "_blank",
+                                "@class": "text-info",
+                                "em": "Katla"
+                              },
+                              {
+                                "@href": "index.html#image01-1r",
+                                "@class": "text-primary",
+                                "#text": "Apps | APIs | AI | Research"
+                              }
+                            ],
+                            "br": [
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              ""
+                            ],
+                            "em": "Katlania",
+                            "#text": [
+                              "Welcome Friends! Thank you so much for visiting our team.",
+                              "We're affectionately named after and connected to a kindred magical place full of renewal, re-birth and always future-facing. It's the volcanic phoenix powerhouse mountain",
+                              "in Iceland (aka",
+                              "and adopted by our teammates). Our team is committed to contribute to make a difference to deliver solutions that benefit humanity.",
+                              "We're celebrating our multi-year organizational success of iterative agile product deliveries for our own products and valued clients. A clear testament to our team culture and how we work to progress on every front. Virtual, multinational and fully liability-insured team of specialists.",
+                              "Nimble. Diverse. Experienced.",
+                              "Voice-Driven. Data-Powered. AI-Wired. Practical solutions from ideas to best cost-effective production.",
+                              "Our goal is to continuously develop mainstream concepts, designs (PoCs) and take them to great MVPs, builds and final RCs.",
+                              "Applied science and useful knowledge application to build for humanity.",
+                              "Iterating. Innovating. Improving."
+                            ]
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "@id": "tab2",
+                      "@class": "tab-pane",
+                      "@role": "tabpanel",
+                      "div": {
+                        "@class": "row",
+                        "div": {
+                          "@class": "col-md-12",
+                          "p": {
+                            "@class": "mbr-text pt-4 mbr-fonts-style display-4",
+                            "a": [
+                              {
+                                "@href": "index.html#features01-19",
+                                "@class": "text-primary",
+                                "#text": "Reliable Performance"
+                              },
+                              {
+                                "@href": "tco-calculator.html#header02-1q",
+                                "@class": "text-primary",
+                                "#text": "here"
+                              }
+                            ],
+                            "br": [
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              ""
+                            ],
+                            "strong": {
+                              "a": {
+                                "@href": "tco-calculator.html#header02-1q",
+                                "@class": "text-primary",
+                                "#text": "TCO"
+                              }
+                            },
+                            "#text": [
+                              "* Full end-to-end technical product ownership (TPO)",
+                              "* Replicable Data Science & AI apps and APIs",
+                              "* We are hands-on & a highly-focused group of developers",
+                              "* Our MVP delivery record is 98%+",
+                              "* Met all agile project increment and release milestones 100% of the time",
+                              "* We measure ourselves with meaningful benchmarks",
+                              "* Reduced overall project CICD tooling costs by 80%",
+                              "Calculate your TCO and cost savings",
+                              "!"
+                            ]
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "@id": "tab3",
+                      "@class": "tab-pane",
+                      "@role": "tabpanel",
+                      "div": {
+                        "@class": "row",
+                        "div": {
+                          "@class": "col-md-12",
+                          "p": {
+                            "@class": "mbr-text pt-4 mbr-fonts-style display-4",
+                            "strong": [
+                              {
+                                "a": {
+                                  "@href": "index.html#features013-1t",
+                                  "@class": "text-primary",
+                                  "#text": "Apps"
+                                }
+                              },
+                              "ClinicalTrials360",
+                              "DocTokk",
+                              "TalaMyte",
+                              "ZenCaro",
+                              "Newsappa",
+                              {
+                                "a": {
+                                  "@href": "index.html#features014-1q",
+                                  "@class": "text-info",
+                                  "br": ""
+                                },
+                                "#text": "s3w"
+                              },
+                              {
+                                "a": {
+                                  "@href": "index.html#features014-1q",
+                                  "@class": "text-primary",
+                                  "#text": "APIs"
+                                }
+                              },
+                              "Integrated Servers",
+                              {
+                                "a": {
+                                  "@href": "index.html#social-buttons02-1s",
+                                  "@class": "text-info",
+                                  "br": ""
+                                }
+                              },
+                              {
+                                "a": {
+                                  "@href": "index.html#social-buttons02-1s",
+                                  "@class": "text-primary",
+                                  "#text": "AI"
+                                }
+                              },
+                              "myai.expert",
+                              "AVA"
+                            ],
+                            "br": [
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              ""
+                            ],
+                            "em": [
+                              "Medical Research",
+                              "Healthcare",
+                              "Public Helpers"
+                            ],
+                            "#text": [
+                              "(utility apps to help reduce public stress)",
+                              "-",
+                              "-",
+                              "-",
+                              "for our apps, AI & integrations with relevant third-party APIs",
+                              "-"
+                            ]
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "@id": "tab4",
+                      "@class": "tab-pane",
+                      "@role": "tabpanel",
+                      "div": {
+                        "@class": "row",
+                        "div": {
+                          "@class": "col-md-12",
+                          "p": {
+                            "@class": "mbr-text pt-4 mbr-fonts-style display-4",
+                            "a": [
+                              {
+                                "@href": "index.html#features01-19",
+                                "@class": "text-primary",
+                                "#text": "Continuous-Integration & Continuous Delivery (CICD)"
+                              },
+                              {
+                                "@href": "index.html#features01-19",
+                                "@class": "text-primary",
+                                "#text": "Constantly Improving"
+                              },
+                              {
+                                "@href": "index.html#features01-19",
+                                "@class": "text-primary",
+                                "#text": "Solid Support"
+                              }
+                            ],
+                            "br": [
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              ""
+                            ],
+                            "#text": [
+                              "Strengthening all of this is our silk-smooth CICD (aka DevOps). In practice by our team from concept to deployment and to final production CDN deployments with enterprise-grade security-hardening.",
+                              "We are constantly iterating, innovating and improving our concepts, designs, builds, user-testing with core testing from the get-go and we're always trying our best to deploy feature-rich and uncomplicated products. We have implemented a culture to protect privacy, be compliant for HIPAA, GDPR, CCPA and have a solid SLA with independent replicable auditing.",
+                              "Plus we offer real continuous human support and maintenance across the board."
+                            ]
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "@id": "tab5",
+                      "@class": "tab-pane",
+                      "@role": "tabpanel",
+                      "div": {
+                        "@class": "row",
+                        "div": {
+                          "@class": "col-md-12",
+                          "p": {
+                            "@class": "mbr-text pt-4 mbr-fonts-style display-4",
+                            "a": [
+                              {
+                                "@href": "index.html#features01-19",
+                                "@class": "text-primary",
+                                "#text": "Team"
+                              },
+                              {
+                                "@href": "index.html#features01-19",
+                                "@class": "text-primary",
+                                "#text": "Multinational Collaboration"
+                              }
+                            ],
+                            "br": [
+                              "",
+                              "",
+                              ""
+                            ],
+                            "strong": {
+                              "br": ""
+                            },
+                            "#text": [
+                              "We are a team of senior data scientists, full-stack developers and technical product owners. We're North America based, mostly-virtual and connect with all corners of the globe (offshore model). We have a successful rapport with many clients, vendors, partners and other specialist teammates around the world.",
+                              "We are forward-looking thinkers.",
+                              "Our outlook is global and cross many cultures, languages, locales, spanning our entire planet."
+                            ]
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "@id": "tab6",
+                      "@class": "tab-pane",
+                      "@role": "tabpanel",
+                      "div": {
+                        "@class": "row",
+                        "div": {
+                          "@class": "col-md-12",
+                          "p": {
+                            "@class": "mbr-text py-3 mbr-fonts-style display-4",
+                            "strong": {
+                              "a": {
+                                "@href": "index.html#features01-19",
+                                "@class": "text-primary",
+                                "#text": "Research"
+                              }
+                            },
+                            "br": [
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              "",
+                              ""
+                            ],
+                            "a": {
+                              "@href": "index.html#features01-19",
+                              "@class": "text-primary",
+                              "#text": "Partnered Alliances"
+                            },
+                            "#text": [
+                              "Integrating & Improving Integrations",
+                              "- Imaging Informatics",
+                              "- NLP Fulfillments and NLU",
+                              "- Bias Reduction in AI",
+                              "- NGS Phenotype Diagnoses",
+                              "- Clinical Trials Analytics",
+                              "- STEM Educational Alliance & UNI Graz under LGPL 2.1 + MPL 2.0 copyleft licenses"
+                            ]
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@class": "features1 cid-rv6xIFruE5",
+          "@id": "features01-19",
+          "div": {
+            "@class": "container",
+            "div": {
+              "@class": "media-container-row",
+              "div": [
+                {
+                  "@class": "card p-3 col-12 col-md-8 col-lg-4",
+                  "div": [
+                    {
+                      "@class": "card-img pb-4",
+                      "a": {
+                        "@href": "index.html#progress-bars03-m",
+                        "span": {
+                          "@class": "mbr-iconfont mbri-database",
+                          "@style": "color: rgb(85, 128, 255); fill: rgb(85, 128, 255);"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "card-box",
+                      "h4": {
+                        "@class": "card-title py-2 mbr-fonts-style display-5",
+                        "#text": "Research"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@class": "card p-3 col-12 col-md-8 col-lg-4",
+                  "div": [
+                    {
+                      "@class": "card-img pb-4",
+                      "a": {
+                        "@href": "index.html#progress-bars03-m",
+                        "span": {
+                          "@class": "mbr-iconfont imind-cardiovascular"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "card-box",
+                      "h4": {
+                        "@class": "card-title py-2 mbr-fonts-style display-5",
+                        "#text": "Healthcare"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@class": "card p-3 col-12 col-md-8 col-lg-4",
+                  "div": [
+                    {
+                      "@class": "card-img pb-4",
+                      "a": {
+                        "@href": "index.html#progress-bars03-m",
+                        "span": {
+                          "@class": "mbr-iconfont mbri-touch"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "card-box",
+                      "h4": {
+                        "@class": "card-title py-2 mbr-fonts-style display-5",
+                        "#text": "Helpers"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@class": "progress-bars3 cid-rv6no6wZhi",
+          "@id": "progress-bars03-m",
+          "div": {
+            "@class": "container",
+            "h2": {
+              "@class": "mbr-section-title pb-4 align-center mbr-fonts-style display-2",
+              "a": {
+                "@href": "https://trello.com/b/H2ZRycNu/lisaiceland-public-roadmap",
+                "@target": "_blank",
+                "@class": "text-primary",
+                "#text": "P"
+              },
+              "#text": "rogress"
+            },
+            "div": {
+              "@class": "media-container-row",
+              "div": [
+                {
+                  "@class": "card p-3 align-center",
+                  "div": [
+                    {
+                      "@class": "wrap",
+                      "div": {
+                        "@class": "pie_progress progress1",
+                        "@role": "progressbar",
+                        "@data-goal": "100",
+                        "p": {
+                          "@class": "pie_progress__number number mbr-fonts-style display-5"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "mbr-crt-title pt-3",
+                      "h4": {
+                        "@class": "card-title py-2 mbr-fonts-style display-5",
+                        "a": {
+                          "@href": "https://trello.com/b/H2ZRycNu/lisaiceland-public-roadmap",
+                          "@target": "_blank",
+                          "@class": "text-primary",
+                          "#text": "P"
+                        },
+                        "#text": "lanning"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@class": "card p-3 align-center",
+                  "div": [
+                    {
+                      "@class": "wrap",
+                      "div": {
+                        "@class": "pie_progress progress2",
+                        "@role": "progressbar",
+                        "@data-goal": "91",
+                        "p": {
+                          "@class": "pie_progress__number number mbr-fonts-style display-5",
+                          "#text": "60%"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "mbr-crt-title pt-3",
+                      "h4": {
+                        "@class": "card-title py-2 mbr-fonts-style display-5",
+                        "a": {
+                          "@href": "https://trello.com/b/H2ZRycNu/lisaiceland-public-roadmap",
+                          "@target": "_blank",
+                          "@class": "text-primary",
+                          "#text": "D"
+                        },
+                        "#text": "esign"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@class": "card p-3 align-center",
+                  "div": [
+                    {
+                      "@class": "wrap",
+                      "div": {
+                        "@class": "pie_progress progress3",
+                        "@role": "progressbar",
+                        "@data-goal": "88",
+                        "p": {
+                          "@class": "pie_progress__number number mbr-fonts-style display-5"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "mbr-crt-title pt-3",
+                      "h4": {
+                        "@class": "card-title py-2 mbr-fonts-style display-5",
+                        "a": {
+                          "@href": "https://trello.com/b/H2ZRycNu/lisaiceland-public-roadmap",
+                          "@target": "_blank",
+                          "@class": "text-primary",
+                          "#text": "B"
+                        },
+                        "#text": "uild"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@class": "card p-3 align-center",
+                  "div": [
+                    {
+                      "@class": "wrap",
+                      "div": {
+                        "@class": "pie_progress progress4",
+                        "@role": "progressbar",
+                        "@data-goal": "83",
+                        "p": {
+                          "@class": "pie_progress__number number mbr-fonts-style display-5"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "mbr-crt-title pt-3",
+                      "h4": {
+                        "@class": "card-title py-2 mbr-fonts-style display-5",
+                        "a": {
+                          "@href": "https://trello.com/b/H2ZRycNu/lisaiceland-public-roadmap",
+                          "@target": "_blank",
+                          "@class": "text-primary",
+                          "#text": "D"
+                        },
+                        "#text": "eploy"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@class": "cid-rv6nhK6cJ2",
+          "@id": "testimonials06-l",
+          "div": {
+            "@class": "container",
+            "div": {
+              "@class": "row",
+              "div": {
+                "@class": "col-md-12 col-lg-12",
+                "span": [
+                  {
+                    "@class": "mbr-iconfont ico1 mobi-mbri-quote-left mobi-mbri",
+                    "@style": "color: rgb(87, 70, 139); fill: rgb(87, 70, 139);"
+                  },
+                  {
+                    "@class": "mbr-iconfont  ico2 mobi-mbri-quote-left mobi-mbri",
+                    "@style": "color: rgb(87, 70, 139); fill: rgb(87, 70, 139);"
+                  }
+                ],
+                "p": {
+                  "@class": "mbr-text mbr-semibold pb-1 align-left mbr-fonts-style display-5",
+                  "#text": "“What gets measured gets managed.”"
+                },
+                "h3": {
+                  "@class": "mbr-section-subtitle align-left mbr-semibold mbr-fonts-style display-4",
+                  "#text": "PETER DRUCKER"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@class": "counters1 counters cid-rv6V5seeqa",
+          "@id": "counters02-1n",
+          "div": {
+            "@class": "container",
+            "div": {
+              "@class": "container",
+              "div": {
+                "@class": "media-container-row",
+                "div": [
+                  {
+                    "@class": "card p-3 align-center col-12 col-md-6 col-lg-3",
+                    "div": {
+                      "@class": "panel-item",
+                      "div": [
+                        {
+                          "@class": "card-img pb-3",
+                          "a": {
+                            "@href": "index.html#testimonials05-1k",
+                            "span": {
+                              "@class": "mbr-iconfont mbri-idea",
+                              "@style": "color: rgb(255, 51, 102); fill: rgb(255, 51, 102);"
+                            }
+                          }
+                        },
+                        {
+                          "@class": "card-text",
+                          "h3": {
+                            "@class": "count count1 pt-3 pb-3 mbr-regular mbr-fonts-style display-1",
+                            "#text": "9"
+                          },
+                          "h4": {
+                            "@class": "mbr-content-title title1 mbr-bold mbr-fonts-style display-5",
+                            "#text": "Solutions"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@class": "card p-3 align-center col-12 col-md-6 col-lg-3",
+                    "div": {
+                      "@class": "panel-item",
+                      "div": [
+                        {
+                          "@class": "card-img pb-3",
+                          "a": {
+                            "@href": "index.html#testimonials05-1k",
+                            "span": {
+                              "@class": "mbr-iconfont mbri-users",
+                              "@style": "color: rgb(135, 154, 159); fill: rgb(135, 154, 159);"
+                            }
+                          }
+                        },
+                        {
+                          "@class": "card-text",
+                          "h3": {
+                            "@class": "count count2 pt-3 pb-3 mbr-regular mbr-fonts-style display-1",
+                            "#text": "46"
+                          },
+                          "h4": {
+                            "@class": "mbr-content-title title2 mbr-bold mbr-fonts-style display-5",
+                            "#text": "Teammates"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@class": "card p-3 align-center col-12 col-md-6 col-lg-3",
+                    "div": {
+                      "@class": "panel-item",
+                      "div": [
+                        {
+                          "@class": "card-img pb-3",
+                          "a": {
+                            "@href": "index.html#testimonials05-1k",
+                            "span": {
+                              "@class": "mbr-iconfont mbri-code",
+                              "@style": "color: rgb(85, 128, 255); fill: rgb(85, 128, 255);"
+                            }
+                          }
+                        },
+                        {
+                          "@class": "card-text",
+                          "h3": {
+                            "@class": "count count3 pt-3 pb-3 mbr-regular mbr-fonts-style display-1",
+                            "#text": "978"
+                          },
+                          "h4": {
+                            "@class": "mbr-content-title title3 mbr-bold mbr-fonts-style display-5",
+                            "#text": "LOC (x1000)"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@class": "card p-3 align-center col-12 col-md-6 col-lg-3",
+                    "div": {
+                      "@class": "panel-item",
+                      "div": [
+                        {
+                          "@class": "card-img pb-3",
+                          "a": {
+                            "@href": "index.html#testimonials05-1k",
+                            "span": {
+                              "@class": "mbr-iconfont mbri-hot-cup",
+                              "@style": "color: rgb(127, 25, 51); fill: rgb(127, 25, 51);"
+                            }
+                          }
+                        },
+                        {
+                          "@class": "card-texts",
+                          "h3": {
+                            "@class": "count count4 pt-3 pb-3 mbr-regular mbr-fonts-style display-1",
+                            "#text": "52"
+                          },
+                          "h4": {
+                            "@class": "mbr-content-title title4 mbr-bold mbr-fonts-style display-5",
+                            "#text": "Cups (x1000)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@class": "cid-rv6GzFZLx3",
+          "@id": "testimonials05-1k",
+          "div": {
+            "@class": "container",
+            "div": {
+              "@class": "row",
+              "div": {
+                "@class": "col-md-12 col-lg-12",
+                "p": {
+                  "@class": "mbr-text mbr-light pb-4 align-left mbr-fonts-style display-4",
+                  "em": [
+                    {
+                      "br": [
+                        "",
+                        ""
+                      ],
+                      "#text": [
+                        "\"Great ideas. Cutting-edge research.",
+                        "The apps and related techstack are delivered to solve real problems and save money.",
+                        "That's what I love about it."
+                      ]
+                    },
+                    "Don't ever stop.\""
+                  ],
+                  "br": ""
+                },
+                "div": {
+                  "@class": "author-box",
+                  "div": [
+                    {
+                      "@class": "img-box",
+                      "img": {
+                        "@class": "face",
+                        "@src": "assets/images/ava-1-160x160.jpg",
+                        "@alt": "Mobirise",
+                        "@title": ""
+                      }
+                    },
+                    {
+                      "@class": "author mbr-m-auto",
+                      "h3": {
+                        "@class": "mbr-semibold pb-2 mbr-fonts-style display-7",
+                        "#text": "Ian Whitely"
+                      },
+                      "h4": {
+                        "@class": "mbr-semibold mbr-fonts-style display-4",
+                        "#text": "CTO"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@class": "cid-rv77acYZ1g",
+          "@id": "testimonials06-1p",
+          "div": {
+            "@class": "container",
+            "div": {
+              "@class": "row",
+              "div": {
+                "@class": "col-md-12 col-lg-12",
+                "span": [
+                  {
+                    "@class": "mbr-iconfont ico1 mobi-mbri-quote-left mobi-mbri",
+                    "@style": "color: rgb(87, 70, 139); fill: rgb(87, 70, 139);"
+                  },
+                  {
+                    "@class": "mbr-iconfont  ico2 mobi-mbri-quote-left mobi-mbri",
+                    "@style": "color: rgb(87, 70, 139); fill: rgb(87, 70, 139);"
+                  }
+                ],
+                "p": {
+                  "@class": "mbr-text mbr-semibold pb-1 align-left mbr-fonts-style display-5",
+                  "#text": "Privacy is paradise."
+                },
+                "h3": {
+                  "@class": "mbr-section-subtitle align-left mbr-semibold mbr-fonts-style display-4",
+                  "#text": "HOLLY HUNTER"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@class": "features1 cid-rv71UXjCJC",
+          "@id": "features03-1o",
+          "div": {
+            "@class": "container",
+            "div": {
+              "@class": "media-container-row",
+              "div": [
+                {
+                  "@class": "card p-3 col-12 col-md-8 col-lg-3",
+                  "div": [
+                    {
+                      "@class": "card-img pt-1",
+                      "a": {
+                        "@href": "privacy.html#header02-2d",
+                        "span": {
+                          "@class": "mbr-iconfont img1 mbri-key"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "card-box",
+                      "h4": {
+                        "@class": "card-title py-2 align-left mbr-fonts-style display-5",
+                        "a": {
+                          "@href": "privacy.html#header02-2d",
+                          "@class": "text-primary",
+                          "#text": "P"
+                        },
+                        "#text": "rivacy"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@class": "card p-3 col-12 col-md-8 col-lg-3",
+                  "div": [
+                    {
+                      "@class": "card-img pt-1",
+                      "a": {
+                        "@href": "gdpr.html#header02-2j",
+                        "span": {
+                          "@class": "mbr-iconfont img2 mbri-speed"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "card-box",
+                      "h4": {
+                        "@class": "card-title py-2 align-left mbr-fonts-style display-5",
+                        "a": {
+                          "@href": "gdpr.html#header02-2j",
+                          "@class": "text-primary",
+                          "#text": "G"
+                        },
+                        "#text": "DPR"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@class": "card p-3 col-12 col-md-8 col-lg-3",
+                  "div": [
+                    {
+                      "@class": "card-img pt-1",
+                      "a": {
+                        "@href": "privacy.html#content06-1q",
+                        "span": {
+                          "@class": "mbr-iconfont img3 mbri-lock"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "card-box",
+                      "h4": {
+                        "@class": "card-title py-2 align-left mbr-fonts-style display-5",
+                        "a": {
+                          "@href": "privacy.html#content06-1q",
+                          "@class": "text-primary",
+                          "#text": "H"
+                        },
+                        "#text": "IPAA"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@class": "card p-3 col-12 col-md-8 col-lg-3",
+                  "div": [
+                    {
+                      "@class": "card-img pt-1",
+                      "a": {
+                        "@href": "ccpa.html#header02-31",
+                        "span": {
+                          "@class": "mbr-iconfont img4 mbri-protect"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "card-box",
+                      "h4": {
+                        "@class": "card-title py-2 align-left mbr-fonts-style display-5",
+                        "a": {
+                          "@href": "ccpa.html#header02-31",
+                          "@class": "text-primary",
+                          "#text": "C"
+                        },
+                        "#text": "CPA"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@class": "header1 cid-rv8ij7BpBc",
+          "@id": "image01-1r",
+          "svg": {
+            "@class": "svg1",
+            "@xmlns": "http://www.w3.org/2000/svg",
+            "@xmlns:xlink": "http://www.w3.org/1999/xlink",
+            "@width": "1380px",
+            "@height": "810px",
+            "@viewbox": "0 0  1380 810",
+            "@preserveaspectratio": "xMidYMid meet",
+            "rect": {
+              "@id": "svgEditorBackground",
+              "@x": "0",
+              "@y": "0",
+              "@width": "1380",
+              "@height": "810",
+              "@style": "fill: none; stroke: none;"
+            },
+            "circle": [
+              {
+                "@id": "e1_circle",
+                "@cx": "309",
+                "@cy": "433",
+                "@style": "fill:aqua;stroke:black;stroke-width:0px;",
+                "@r": "149.486"
+              },
+              {
+                "@id": "e3_circle",
+                "@cx": "679",
+                "@cy": "707",
+                "@style": "fill: aqua; stroke-width: 0px;stroke:black;",
+                "@r": "516.715"
+              },
+              {
+                "@id": "e4_circle",
+                "@cx": "759",
+                "@cy": "261",
+                "@style": "fill:aqua;stroke:black;stroke-width:0px;",
+                "@r": "132.2459829258"
+              },
+              {
+                "@id": "e5_circle",
+                "@cx": "1054",
+                "@cy": "462",
+                "@style": "fill:aqua;stroke:black;stroke-width:0px;",
+                "@r": "139.413"
+              },
+              {
+                "@id": "e6_circle",
+                "@cx": "691",
+                "@cy": "692",
+                "@style": "fill:khaki;stroke:black;stroke-width:0px;",
+                "@r": "367.214"
+              }
+            ]
+          },
+          "div": [
+            {
+              "@class": "round round1 rev"
+            },
+            {
+              "@class": "round round2 rev"
+            },
+            {
+              "@class": "round round3"
+            },
+            {
+              "@class": "round round4 rev"
+            },
+            {
+              "@class": "round round5"
+            },
+            {
+              "@class": "round round6 rev"
+            },
+            {
+              "@class": "round round7"
+            },
+            {
+              "@class": "round round8 rev"
+            },
+            {
+              "@class": "round round9 rev"
+            },
+            {
+              "@class": "round round10"
+            },
+            {
+              "@class": "round round11"
+            },
+            {
+              "@class": "container",
+              "div": {
+                "@class": "mbr-figure",
+                "a": {
+                  "@href": "index.html#social-buttons02-1s",
+                  "img": {
+                    "@src": "assets/images/web-design-agency-1024x496.png",
+                    "@alt": "Mobirise",
+                    "@parallax": "",
+                    "@title": "",
+                    "@style": "width: 100%;"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@class": "cid-rvgUKzb5rQ",
+          "@id": "header08-1q",
+          "div": {
+            "@class": "container align-center",
+            "div": {
+              "@class": "row justify-content-md-start justify-content-md-center",
+              "div": {
+                "@class": "mbr-white col-sm-212 col-md-10 col-lg-7",
+                "h1": {
+                  "@class": "mbr-section-title mbr-regular pb-3 align-center mbr-fonts-style display-2",
+                  "a": {
+                    "@href": "index.html#social-buttons02-1s",
+                    "@class": "text-primary",
+                    "#text": "S"
+                  },
+                  "#text": "olutions"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@class": "features1 cid-rv7cGnYKhG",
+          "@id": "social-buttons02-1s",
+          "div": {
+            "@class": "container",
+            "div": {
+              "@class": "row justify-content-center",
+              "div": [
+                {
+                  "@class": "card cardcolor p-3 col-12 col-md-6",
+                  "div": {
+                    "@class": "card-wrapper",
+                    "div": [
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "avapage.html#menu01-1y",
+                          "span": {
+                            "@class": "mbr-iconfont ico1 mdi-image-details",
+                            "@style": "color: rgb(255, 51, 102); fill: rgb(255, 51, 102);"
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box",
+                        "h3": {
+                          "@class": "card-title align-left mbr-fonts-style display-5",
+                          "a": {
+                            "@href": "avapage.html#menu01-1y",
+                            "@class": "text-primary",
+                            "#text": "A"
+                          },
+                          "#text": "VA"
+                        },
+                        "h4": {
+                          "@class": "mbr-text align-left mbr-fonts-style display-4",
+                          "#text": "AI Voice Helper"
+                        }
+                      },
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "avapage.html#menu01-1y",
+                          "span": {
+                            "@class": "mbr-iconfont ico2 mobi-mbri-right mobi-mbri"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "card cardcolor p-3 col-12 col-md-6",
+                  "div": {
+                    "@class": "card-wrapper",
+                    "div": [
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "https://myai.expert",
+                          "@target": "_blank",
+                          "span": {
+                            "@class": "mbr-iconfont ico1 imind-brain-2",
+                            "@style": "color: rgb(255, 51, 102); fill: rgb(255, 51, 102);"
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box",
+                        "h3": {
+                          "@class": "card-title align-left mbr-fonts-style display-5",
+                          "a": {
+                            "@href": "https://myai.expert",
+                            "@class": "text-primary",
+                            "@target": "_blank",
+                            "#text": "m"
+                          },
+                          "#text": "yai.expert"
+                        },
+                        "h4": {
+                          "@class": "mbr-text align-left mbr-fonts-style display-4",
+                          "#text": "Powerful AI Engine"
+                        }
+                      },
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "https://myai.expert",
+                          "@target": "_blank",
+                          "span": {
+                            "@class": "mbr-iconfont ico2 mobi-mbri-right mobi-mbri"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@class": "features1 cid-rv8oLIRsZQ",
+          "@id": "features013-1t",
+          "div": {
+            "@class": "container",
+            "div": [
+              {
+                "@class": "media-container-row",
+                "div": [
+                  {
+                    "@class": "card cardcolor p-3 col-12 col-md-8 col-lg-4",
+                    "div": [
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "https://clinicaltrials360.com",
+                          "@target": "_blank",
+                          "span": {
+                            "@class": "mbr-iconfont img1 icon54-v1-conference-speach",
+                            "@style": "color: rgb(255, 138, 115); fill: rgb(255, 138, 115);"
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box",
+                        "h4": {
+                          "@class": "card-title py-2 align-left mbr-fonts-style display-5",
+                          "a": {
+                            "@href": "https://clinicaltrials360.com",
+                            "@target": "_blank",
+                            "@class": "text-primary",
+                            "#text": "C"
+                          },
+                          "#text": "T360"
+                        },
+                        "p": {
+                          "@class": "mbr-text align-left mbr-fonts-style display-4",
+                          "#text": "Clinical Trials: 100% Free CT/CD/PR MS & CTDE (advanced data explorer). Plus our in-depth API'd AI-powered analytics platform."
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@class": "card cardcolor p-3 col-12 col-md-8 col-lg-4",
+                    "div": [
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "https://talamyte.com",
+                          "@target": "_blank",
+                          "span": {
+                            "@class": "mbr-iconfont img1 mbri-touch-swipe",
+                            "@style": "color: rgb(255, 138, 115); fill: rgb(255, 138, 115);"
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box",
+                        "h4": {
+                          "@class": "card-title py-2 align-left mbr-fonts-style display-5",
+                          "a": {
+                            "@href": "https://talamyte.com",
+                            "@target": "_blank",
+                            "@class": "text-primary",
+                            "#text": "T"
+                          },
+                          "#text": "alaMyte"
+                        },
+                        "p": {
+                          "@class": "mbr-text align-left mbr-fonts-style display-4",
+                          "br": [
+                            "",
+                            ""
+                          ],
+                          "#text": [
+                            "Social Media platform. Post. Share.",
+                            "Like. Follow.",
+                            "Ultra-fast & fully AI-Powered API."
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@class": "card cardcolor p-3 col-12 col-md-8 col-lg-4",
+                    "div": [
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "https://newsappa.com",
+                          "@target": "_blank",
+                          "span": {
+                            "@class": "mbr-iconfont img1 imind-newspaper",
+                            "@style": "color: rgb(255, 138, 115); fill: rgb(255, 138, 115);"
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box",
+                        "h4": {
+                          "@class": "card-title py-2 align-left mbr-fonts-style display-5",
+                          "a": {
+                            "@href": "https://newsappa.com",
+                            "@target": "_blank",
+                            "@class": "text-primary",
+                            "#text": "N"
+                          },
+                          "#text": "ewsappa"
+                        },
+                        "p": {
+                          "@class": "mbr-text align-left mbr-fonts-style display-4",
+                          "br": [
+                            "",
+                            ""
+                          ],
+                          "#text": [
+                            "Global news. Bias-rated. Left-Center-Right.",
+                            "See all sides. Ultra-fast & fully AI-Powered API."
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@class": "media-container-row pt-3",
+                "div": [
+                  {
+                    "@class": "card cardcolor p-3 col-12 col-md-8 col-lg-4",
+                    "div": [
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "https://doctokk.com",
+                          "@target": "_blank",
+                          "span": {
+                            "@class": "mbr-iconfont img1 li_video",
+                            "@style": "color: rgb(255, 138, 115); fill: rgb(255, 138, 115);"
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box",
+                        "h4": {
+                          "@class": "card-title py-2 align-left mbr-fonts-style display-5",
+                          "a": {
+                            "@href": "https://doctokk.com",
+                            "@target": "_blank",
+                            "@class": "text-primary",
+                            "#text": "D"
+                          },
+                          "#text": "ocTokk"
+                        },
+                        "p": {
+                          "@class": "mbr-text align-left mbr-fonts-style display-4",
+                          "#text": "1-on-1 videochat with your healthcare provider. Full AI-Powered API."
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@class": "card cardcolor p-3 col-12 col-md-8 col-lg-4",
+                    "div": [
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "https://zencaro.com",
+                          "@target": "_blank",
+                          "span": {
+                            "@class": "mbr-iconfont img1 socicon-ventrilo socicon",
+                            "@style": "color: rgb(255, 138, 115); fill: rgb(255, 138, 115);"
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box",
+                        "h4": {
+                          "@class": "card-title py-2 align-left mbr-fonts-style display-5",
+                          "a": {
+                            "@href": "https://zencaro.com",
+                            "@target": "_blank",
+                            "@class": "text-primary",
+                            "#text": "Z"
+                          },
+                          "#text": "enCaro"
+                        },
+                        "p": {
+                          "@class": "mbr-text align-left mbr-fonts-style display-4",
+                          "#text": "Awesome ridesharing. 90/10 You/Us split on gross tickets. Ultra-fast & fully AI-Powered API."
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@class": "card cardcolor p-3 col-12 col-md-8 col-lg-4",
+                    "div": [
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "http://bit.ly/APIs_Lisaiceland",
+                          "@target": "_blank",
+                          "span": {
+                            "@class": "mbr-iconfont img1 imind-location-2",
+                            "@style": "color: rgb(255, 138, 115); fill: rgb(255, 138, 115);"
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box",
+                        "h4": {
+                          "@class": "card-title align-left py-2 mbr-fonts-style display-5",
+                          "a": {
+                            "@href": "http://bit.ly/APIs_Lisaiceland",
+                            "@target": "_blank",
+                            "@class": "text-primary",
+                            "#text": "s"
+                          },
+                          "#text": "3w"
+                        },
+                        "p": {
+                          "@class": "mbr-text align-left mbr-fonts-style display-4",
+                          "#text": "Send help with pin-point location even offline. Ultra-fast & fully AI-Powered API."
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "@class": "features1 cid-rv8yLIuDyw",
+          "@id": "features014-1q",
+          "div": {
+            "@class": "container",
+            "div": {
+              "@class": "row justify-content-center",
+              "div": [
+                {
+                  "@class": "col-md-12 col-lg-10"
+                },
+                {
+                  "@class": "card cardcolor p-3 col-12 col-md-6 col-lg-4",
+                  "div": {
+                    "@class": "card-wrapper",
+                    "div": [
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "http://bit.ly/APIs_Lisaiceland",
+                          "@target": "_blank",
+                          "span": {
+                            "@class": "mbr-iconfont ico1 mbri-code",
+                            "@style": "color: rgb(85, 128, 255); fill: rgb(85, 128, 255);"
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box",
+                        "h3": {
+                          "@class": "card-title align-left mbr-fonts-style display-5",
+                          "a": {
+                            "@href": "http://bit.ly/APIs_Lisaiceland",
+                            "@class": "text-primary",
+                            "@target": "_blank",
+                            "#text": "A"
+                          },
+                          "#text": "PIs"
+                        },
+                        "h4": {
+                          "@class": "mbr-text align-left mbr-fonts-style display-4",
+                          "#text": "Connect Everything"
+                        }
+                      },
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "http://bit.ly/APIs_Lisaiceland",
+                          "@target": "_blank",
+                          "span": {
+                            "@class": "mbr-iconfont ico2 mobi-mbri-right mobi-mbri"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "card cardcolor p-3 col-12 col-md-6 col-lg-4",
+                  "div": {
+                    "@class": "card-wrapper",
+                    "div": [
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "index.html#features08-1q",
+                          "span": {
+                            "@class": "mbr-iconfont ico1 mbri-database",
+                            "@style": "color: rgb(255, 51, 102); fill: rgb(255, 51, 102);"
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box",
+                        "h3": {
+                          "@class": "card-title align-left mbr-fonts-style display-5",
+                          "a": {
+                            "@href": "index.html#features08-1q",
+                            "@class": "text-primary",
+                            "#text": "R"
+                          },
+                          "#text": "& D"
+                        },
+                        "h4": {
+                          "@class": "mbr-text align-left mbr-fonts-style display-4",
+                          "#text": "Applied Research"
+                        }
+                      },
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "index.html#features08-1q",
+                          "span": {
+                            "@class": "mbr-iconfont ico2 mobi-mbri-right mobi-mbri"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "card cardcolor p-3 col-12 col-md-6 col-lg-4",
+                  "div": {
+                    "@class": "card-wrapper",
+                    "div": [
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "http://bit.ly/Docs_Lisaiceland",
+                          "@target": "_blank",
+                          "span": {
+                            "@class": "mbr-iconfont ico1 icon54-v1-documents",
+                            "@style": "color: rgb(193, 193, 193); fill: rgb(193, 193, 193);"
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box",
+                        "h3": {
+                          "@class": "card-title align-left mbr-fonts-style display-5",
+                          "a": {
+                            "@href": "http://bit.ly/Docs_Lisaiceland",
+                            "@class": "text-primary",
+                            "@target": "_blank",
+                            "#text": "D"
+                          },
+                          "#text": "ocs"
+                        },
+                        "h4": {
+                          "@class": "mbr-text align-left mbr-fonts-style display-4",
+                          "#text": "+ Other Info"
+                        }
+                      },
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "http://bit.ly/Docs_Lisaiceland",
+                          "@target": "_blank",
+                          "span": {
+                            "@class": "mbr-iconfont ico2 mobi-mbri-right mobi-mbri"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@class": "features2 cid-rvaKNHJbds",
+          "@id": "features08-1q",
+          "div": {
+            "@class": "container",
+            "div": {
+              "@class": "row",
+              "div": [
+                {
+                  "@class": "card p-3 col-12 col-md-6 col-lg-3",
+                  "div": {
+                    "@class": "card-wrapper",
+                    "div": [
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "http://bit.ly/Research_Lisaiceland",
+                          "@target": "_blank",
+                          "img": {
+                            "@src": "assets/images/magnetic-resonance-imaging-128-128x128.png",
+                            "@alt": "Mobirise",
+                            "@title": ""
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box",
+                        "h4": {
+                          "@class": "card-title pb-3 mbr-fonts-style display-5",
+                          "a": {
+                            "@href": "http://bit.ly/Research_Lisaiceland",
+                            "@target": "_blank",
+                            "@class": "text-primary",
+                            "#text": "I"
+                          },
+                          "#text": "maging"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "card p-3 col-12 col-md-6 col-lg-3",
+                  "div": {
+                    "@class": "card-wrapper",
+                    "div": [
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "http://bit.ly/Research_Lisaiceland",
+                          "@target": "_blank",
+                          "img": {
+                            "@src": "assets/images/brain-128x128.png",
+                            "@alt": "Mobirise",
+                            "@title": ""
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box ",
+                        "h4": {
+                          "@class": "card-title pb-3 mbr-fonts-style display-5",
+                          "a": {
+                            "@href": "http://bit.ly/Research_Lisaiceland",
+                            "@target": "_blank",
+                            "@class": "text-primary",
+                            "#text": "N"
+                          },
+                          "#text": "LU"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "card p-3 col-12 col-md-6 col-lg-3",
+                  "div": {
+                    "@class": "card-wrapper",
+                    "div": [
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "http://bit.ly/Research_Lisaiceland",
+                          "@target": "_blank",
+                          "img": {
+                            "@src": "assets/images/benefit-icon3-165x165.png",
+                            "@alt": "Mobirise",
+                            "@title": ""
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box",
+                        "h4": {
+                          "@class": "card-title pb-3 mbr-fonts-style display-5",
+                          "a": {
+                            "@href": "http://bit.ly/Research_Lisaiceland",
+                            "@target": "_blank",
+                            "@class": "text-primary",
+                            "#text": "B"
+                          },
+                          "#text": "ias"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "card p-3 col-12 col-md-6 col-lg-3",
+                  "div": {
+                    "@class": "card-wrapper",
+                    "div": [
+                      {
+                        "@class": "card-img",
+                        "a": {
+                          "@href": "http://bit.ly/Research_Lisaiceland",
+                          "@target": "_blank",
+                          "img": {
+                            "@src": "assets/images/bigml-1.gif",
+                            "@alt": "Mobirise",
+                            "@title": ""
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box",
+                        "h4": {
+                          "@class": "card-title pb-3 mbr-fonts-style display-5",
+                          "a": {
+                            "@href": "http://bit.ly/Research_Lisaiceland",
+                            "@target": "_blank",
+                            "@class": "text-primary",
+                            "#text": "N"
+                          },
+                          "#text": "GS"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@class": "counters1 counters cid-rw2mqespu4",
+          "@roup": "Counters",
+          "@id": "counters03-1q",
+          "div": {
+            "@class": "container",
+            "div": {
+              "@class": "row",
+              "div": [
+                {
+                  "@class": "col-md-12 col-lg-6 col-12 py-4 m-auto",
+                  "h1": {
+                    "@class": "mbr-section-title mbr-regular pb-3 mbr-fonts-style display-2",
+                    "a": {
+                      "@href": "index.html#counters03-1q",
+                      "@class": "text-primary",
+                      "#text": "P"
+                    },
+                    "#text": "WA"
+                  },
+                  "p": {
+                    "@class": "mbr-text align-left mbr-light mbr-fonts-style display-7",
+                    "a": {
+                      "@href": "http://bit.ly/Docs_Lisaiceland",
+                      "@target": "_blank",
+                      "@class": "text-primary",
+                      "#text": "docs"
+                    },
+                    "br": "",
+                    "#text": [
+                      "Open app or URL. Desktop & Mobile. (+) Add (icon) to Home Screen or Install on Desktop. Click app icon to open. Voila! (see",
+                      "for more)"
+                    ]
+                  },
+                  "div": {
+                    "@class": "row justify-content-center",
+                    "div": [
+                      {
+                        "@class": "card p-3 align-center col-12 col-md-4",
+                        "div": {
+                          "@class": "panel-item p-3",
+                          "div": {
+                            "@class": "card-text",
+                            "h3": {
+                              "@class": "count pt-3 pb-3 mbr-regular mbr-fonts-style display-2",
+                              "#text": "7"
+                            },
+                            "h4": {
+                              "@class": "mbr-content-title count-title mbr-fonts-style display-5",
+                              "#text": "PWAs"
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card p-3 align-center col-12 col-md-4",
+                        "div": {
+                          "@class": "panel-item p-3",
+                          "div": {
+                            "@class": "card-text",
+                            "h3": {
+                              "@class": "count pt-3 pb-3 mbr-regular mbr-fonts-style display-2",
+                              "#text": "9"
+                            },
+                            "h4": {
+                              "@class": "mbr-content-title count-title mbr-fonts-style display-5",
+                              "#text": "APIs"
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@class": "col-lg-6 col-md-12 col-12 align-center img-box",
+                  "a": [
+                    {
+                      "@href": "index.html#counters03-1q",
+                      "img": {
+                        "@class": "img1",
+                        "@src": "assets/images/lisaiceland-designs-438x404.png",
+                        "@alt": "Mobirise",
+                        "@title": ""
+                      }
+                    },
+                    {
+                      "@href": "index.html#counters03-1q",
+                      "img": {
+                        "@class": "img2",
+                        "@src": "assets/images/pwa-576x324.jpg",
+                        "@alt": "Mobirise",
+                        "@title": ""
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@class": "features1 cid-rw7trJGYaz",
+          "@id": "features011-1q",
+          "div": {
+            "@class": "container",
+            "div": {
+              "@class": "row justify-content-center",
+              "div": [
+                {
+                  "@class": "col-md-12 col-lg-6 py-2 m-auto",
+                  "h1": {
+                    "@class": "mbr-section-title mbr-regular pb-3 align-left mbr-fonts-style display-2",
+                    "a": {
+                      "@href": "index.html#features011-1q",
+                      "@class": "text-primary",
+                      "#text": "M"
+                    },
+                    "#text": "obile"
+                  }
+                },
+                {
+                  "@class": "col-md-12 col-lg-6 py-2 m-auto",
+                  "div": {
+                    "@class": "row justify-content-center",
+                    "div": [
+                      {
+                        "@class": "card cardcolor p-3 col-12 col-md-6",
+                        "div": {
+                          "@class": "card-wrapper",
+                          "div": [
+                            {
+                              "@class": "card-img",
+                              "a": {
+                                "@href": "index.html#features011-1q",
+                                "span": {
+                                  "@class": "mbr-iconfont ico1 mbri-apple",
+                                  "@style": "color: rgb(255, 51, 102); fill: rgb(255, 51, 102);"
+                                }
+                              }
+                            },
+                            {
+                              "@class": "card-box",
+                              "h3": {
+                                "@class": "card-title align-left mbr-fonts-style display-5",
+                                "a": {
+                                  "@href": "https://mobirise.com",
+                                  "@class": "text-info",
+                                  "#text": "i"
+                                },
+                                "#text": "OS"
+                              }
+                            },
+                            {
+                              "@class": "card-img",
+                              "a": {
+                                "@href": "index.html#features011-1q",
+                                "span": {
+                                  "@class": "mbr-iconfont ico2 mobi-mbri-right mobi-mbri"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@class": "card cardcolor p-3 col-12 col-md-6",
+                        "div": {
+                          "@class": "card-wrapper",
+                          "div": [
+                            {
+                              "@class": "card-img",
+                              "a": {
+                                "@href": "index.html#features011-1q",
+                                "span": {
+                                  "@class": "mbr-iconfont ico1 imind-google-play",
+                                  "@style": "color: rgb(85, 128, 255); fill: rgb(85, 128, 255);"
+                                }
+                              }
+                            },
+                            {
+                              "@class": "card-box",
+                              "h3": {
+                                "@class": "card-title align-left mbr-fonts-style display-5",
+                                "#text": "Play"
+                              }
+                            },
+                            {
+                              "@class": "card-img",
+                              "a": {
+                                "@href": "index.html#features011-1q",
+                                "span": {
+                                  "@class": "mbr-iconfont ico2 mobi-mbri-right mobi-mbri"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@class": "cid-rw3zXExyHY",
+          "@id": "features09-1q",
+          "div": {
+            "@class": "container",
+            "div": {
+              "@class": "row",
+              "div": [
+                {
+                  "@class": "col-lg-7 col-md-12 col-12 align-center img-box",
+                  "a": [
+                    {
+                      "@href": "index.html#features09-1q",
+                      "img": {
+                        "@class": "img1",
+                        "@src": "assets/images/ar-3-412x412.png",
+                        "@alt": "Mobirise",
+                        "@title": ""
+                      }
+                    },
+                    {
+                      "@href": "index.html#features09-1q",
+                      "img": {
+                        "@class": "img2",
+                        "@src": "assets/images/ava-2.gif",
+                        "@alt": "Mobirise",
+                        "@title": ""
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@class": "col-md-12 col-lg-5 col-12 py-4 m-auto",
+                  "h1": {
+                    "@class": "mbr-section-title mbr-regular pb-3 mbr-fonts-style display-2",
+                    "a": {
+                      "@href": "index.html#features09-1q",
+                      "@class": "text-primary",
+                      "#text": "L"
+                    },
+                    "br": [
+                      "",
+                      ""
+                    ],
+                    "#text": "atest"
+                  },
+                  "div": {
+                    "@class": "card",
+                    "div": [
+                      {
+                        "@class": "card-ico",
+                        "a": {
+                          "@href": "index.html#features09-1q",
+                          "span": {
+                            "@class": "mbr-iconfont pt-1 ico1 mbri-layers",
+                            "@style": "color: rgb(255, 51, 102); fill: rgb(255, 51, 102);"
+                          }
+                        }
+                      },
+                      {
+                        "@class": "card-box",
+                        "h4": {
+                          "@class": "card-title pb-1 align-left mbr-fonts-style display-5",
+                          "#text": "Techstacks"
+                        },
+                        "p": {
+                          "@class": "mbr-text mbr-fonts-style align-left display-4"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@class": "countdown1 cid-rv6ncyoRN4",
+          "@id": "countdown01-k",
+          "div": [
+            {
+              "@class": "container ",
+              "h2": {
+                "@class": "mbr-section-title pb-4 align-center mbr-fonts-style display-2",
+                "a": {
+                  "@href": "https://trello.com/b/H2ZRycNu/lisaiceland-public-roadmap",
+                  "@target": "_blank",
+                  "@class": "text-primary",
+                  "#text": "U"
+                },
+                "#text": "pdates"
+              },
+              "h3": {
+                "@class": "mbr-section-subtitle pb-5 align-center mbr-fonts-style display-5",
+                "a": {
+                  "@href": "https://trello.com/b/H2ZRycNu/lisaiceland-public-roadmap",
+                  "@target": "_blank",
+                  "@class": "text-primary",
+                  "#text": "Current Sprint"
+                }
+              }
+            },
+            {
+              "@class": "container countdown-cont align-center",
+              "div": [
+                {
+                  "@class": "daysCountdown",
+                  "@title": "Days"
+                },
+                {
+                  "@class": "hoursCountdown",
+                  "@title": "Hours"
+                },
+                {
+                  "@class": "minutesCountdown",
+                  "@title": "Minutes"
+                },
+                {
+                  "@class": "secondsCountdown",
+                  "@title": "Seconds"
+                },
+                {
+                  "@class": "countdown",
+                  "@data-due-date": "2019/07/31"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@class": "clients cid-rwdHQTT2qr",
+          "@id": "clients01-23",
+          "svg": {
+            "@xmlns": "http://www.w3.org/2000/svg",
+            "@xmlns:xlink": "http://www.w3.org/1999/xlink",
+            "@width": "1380px",
+            "@height": "810px",
+            "@viewbox": "0 -8.992806499463768e-14 1380 810",
+            "@preserveaspectratio": "xMidYMid meet",
+            "rect": {
+              "@id": "svgEditorBackground",
+              "@x": "0",
+              "@y": "0",
+              "@width": "1380",
+              "@height": "810",
+              "@style": "fill: none; stroke: none;"
+            },
+            "defs": {
+              "@id": "svgEditorDefs",
+              "polygon": {
+                "@id": "svgEditorShapeDefs",
+                "@style": "fill:khaki;stroke:black;vector-effect:non-scaling-stroke;stroke-width:1px;"
+              },
+              "path": {
+                "@id": "svgEditorClosePathDefs",
+                "@style": "stroke:black;stroke-width:1px;fill:khaki;"
+              }
+            },
+            "path": [
+              {
+                "@d": "M15083.791600683318,645.6720847341486c496.6000000000058,747.7999999999951,1953.3704016668416,1862.6734725832403,2751.999999999978,1967.9999999999955s1884.300000000003,-198.89999999999964,2718.7056474818382,-552.6365690040448s1746.4898225846773,-519.9524548776521,2593.2943525181545,-567.3634309959566s2251,-23.399999999999636,4384,1520.0000000000032s3205.199999999997,1437.2000000000025,4047.9999999999854,1520.0000000000018s3305.000000000029,-270.2999999999993,4640.000000000029,-1152s74.60000000000582,3328.3000000000065,32,3792.0000000000073s-19509.4,4591.000000000004,-21087.999999999993,-128.00000000000182s-1679.5999999999913,-6358.300000000001,-80,-6400Z",
+                "@style": "stroke:black;fill:khaki;stroke-width:0px;",
+                "@id": "e12_areaS3",
+                "@transform": "matrix(0.0650006 -0.00123765 0.00123765 0.0650006 -995.543 317.589)"
+              },
+              {
+                "@d": "M12434.469938292996,-979.2324603008726c496.600000000004,747.8000000000001,1953.3704016668398,1862.673472583247,2752.000000000018,1967.9999999999995s1884.2999999999865,-198.90000000000055,2718.7056474818364,-552.6365690040473s1746.4898225846846,-519.9524548776479,2593.2943525181618,-567.3634309959524s2251,-23.400000000001455,4384,1520s3205.199999999997,1437.1999999999962,4048,1519.9999999999955s3304.9999999999927,-270.3000000000011,4640,-1151.9999999999955s74.60000000000582,3328.3,32,3791.9999999999955s-19509.400000000023,4590.999999999997,-21088.000000000015,-127.99999999999818s-1679.5999999999985,-6358.300000000008,-80,-6400.0000000000055Z",
+                "@style": "stroke:black;fill:aqua;stroke-width:0px;",
+                "@id": "e19_areaS3",
+                "@transform": "matrix(0.0647268 0.00608646 -0.00608646 0.0647268 -823.261 331.266)"
+              }
+            ],
+            "text": {
+              "@dy": "-0.5em",
+              "@style": "fill:black;font-family:Arial;font-size:20px;",
+              "@id": "e14_texte",
+              "@transform": "matrix(0.0640454 0 0 0.0640454 -832.187 329.878)",
+              "textpath": {
+                "@id": "e13_textPath",
+                "@xlink:href": "#e12_areaS3",
+                "#text": "T"
+              }
+            }
+          },
+          "div": {
+            "@class": "container",
+            "div": {
+              "@class": "carousel slide",
+              "@data-ride": "carousel",
+              "@role": "listbox",
+              "div": [
+                {
+                  "@class": "carousel-inner",
+                  "@data-visible": "5",
+                  "div": [
+                    {
+                      "@class": "carousel-item ",
+                      "div": {
+                        "@class": "media-container-row",
+                        "div": {
+                          "@class": "col-md-12",
+                          "div": {
+                            "@class": "wrap-img ",
+                            "img": {
+                              "@src": "assets/images/md-anderson-cancer-center-240x138.jpg",
+                              "@class": "img-responsive clients-img",
+                              "@alt": "",
+                              "@title": ""
+                            }
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "@class": "carousel-item ",
+                      "div": {
+                        "@class": "media-container-row",
+                        "div": {
+                          "@class": "col-md-12",
+                          "div": {
+                            "@class": "wrap-img ",
+                            "img": {
+                              "@src": "assets/images/anthem-270x270.jpg",
+                              "@class": "img-responsive clients-img",
+                              "@alt": "",
+                              "@title": ""
+                            }
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "@class": "carousel-item ",
+                      "div": {
+                        "@class": "media-container-row",
+                        "div": {
+                          "@class": "col-md-12",
+                          "div": {
+                            "@class": "wrap-img ",
+                            "img": {
+                              "@src": "assets/images/nih-master-logo-vertical-2color-374x329.png",
+                              "@class": "img-responsive clients-img",
+                              "@alt": "",
+                              "@title": ""
+                            }
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "@class": "carousel-item ",
+                      "div": {
+                        "@class": "media-container-row",
+                        "div": {
+                          "@class": "col-md-12",
+                          "div": {
+                            "@class": "wrap-img ",
+                            "img": {
+                              "@src": "assets/images/uni-graz-2.gif",
+                              "@class": "img-responsive clients-img",
+                              "@alt": "",
+                              "@title": ""
+                            }
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "@class": "carousel-item ",
+                      "div": {
+                        "@class": "media-container-row",
+                        "div": {
+                          "@class": "col-md-12",
+                          "div": {
+                            "@class": "wrap-img ",
+                            "img": {
+                              "@src": "assets/images/cdc-2400x1212.png",
+                              "@class": "img-responsive clients-img",
+                              "@alt": "",
+                              "@title": ""
+                            }
+                          }
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@class": "carousel-controls",
+                  "a": [
+                    {
+                      "@data-app-prevent-settings": "",
+                      "@class": "carousel-control carousel-control-prev",
+                      "@role": "button",
+                      "@data-slide": "prev",
+                      "span": [
+                        {
+                          "@aria-hidden": "true",
+                          "@class": "mbri-left mbr-iconfont"
+                        },
+                        {
+                          "@class": "sr-only",
+                          "#text": "Previous"
+                        }
+                      ]
+                    },
+                    {
+                      "@data-app-prevent-settings": "",
+                      "@class": "carousel-control carousel-control-next",
+                      "@role": "button",
+                      "@data-slide": "next",
+                      "span": [
+                        {
+                          "@aria-hidden": "true",
+                          "@class": "mbri-right mbr-iconfont"
+                        },
+                        {
+                          "@class": "sr-only",
+                          "#text": "Next"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@once": "",
+          "@class": "cid-rv6mKnRqCy",
+          "@id": "footer01-e",
+          "div": {
+            "@class": "container",
+            "div": {
+              "@class": "media-container-row align-center mbr-white",
+              "div": {
+                "@class": "col-12",
+                "p": {
+                  "@class": "mbr-text mb-0 mbr-fonts-style display-4",
+                  "br": [
+                    "",
+                    ""
+                  ],
+                  "a": [
+                    {
+                      "@href": "https://twitter.com/myaiexpert1",
+                      "@target": "_blank",
+                      "@class": "text-success",
+                      "#text": "Twitter"
+                    },
+                    {
+                      "@href": "https://lisaiceland.podbean.com/",
+                      "@target": "_blank",
+                      "@class": "text-success",
+                      "#text": "Podcast"
+                    },
+                    {
+                      "@href": "https://trello.com/b/H2ZRycNu/lisaiceland-public-roadmap",
+                      "@target": "_blank",
+                      "@class": "text-success",
+                      "#text": "Roadmap"
+                    },
+                    {
+                      "@href": "https://www.credential.net/issuer/16242",
+                      "@target": "_blank",
+                      "@class": "text-success",
+                      "#text": "Bootcamps"
+                    },
+                    {
+                      "@href": "sla-uptime.html#header02-2b",
+                      "@class": "text-success",
+                      "#text": "Uptime"
+                    },
+                    {
+                      "@href": "https://docs.google.com/document/d/1WFyhNA7nwNMU4x9gicVKFdRa88p2lkgLUatn0Ddd1tc/edit",
+                      "@target": "_blank",
+                      "@class": "text-success",
+                      "#text": "Admin"
+                    }
+                  ],
+                  "#text": [
+                    "© Copyright 2019 Lisaiceland, Katlania & All Related DBA Registrations - All Rights Reserved Worldwide",
+                    "All Images, GIFs, Icons & Videos - Credits To Owners Under LGPL, MPL, MIT, CC & Other Applicable Copyleft Licensing",
+                    "-",
+                    "-",
+                    "-",
+                    "-",
+                    "-"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ],
+      "div": {
+        "@class": "modal mbr-popup cid-rv6mPH14BE fade",
+        "@tabindex": "-1",
+        "@role": "dialog",
+        "@data-on-timer-delay": "5",
+        "@data-overlay-color": "#000000",
+        "@data-overlay-opacity": "0.8",
+        "@id": "mbr-popup-g",
+        "@aria-hidden": "true",
+        "div": {
+          "@class": "modal-dialog modal-dialog-centered",
+          "@role": "document",
+          "div": {
+            "@class": "modal-content",
+            "div": [
+              {
+                "@class": "modal-header pb-0",
+                "h5": {
+                  "@class": "modal-title mbr-fonts-style display-5",
+                  "#text": "Welcome Friends!"
+                },
+                "button": {
+                  "@type": "button",
+                  "@class": "close",
+                  "@data-dismiss": "modal",
+                  "@aria-label": "Close",
+                  "svg": {
+                    "@version": "1.1",
+                    "@xmlns": "http://www.w3.org/2000/svg",
+                    "@width": "24",
+                    "@height": "24",
+                    "@viewbox": "0 0 32 32",
+                    "@fill": "currentColor",
+                    "path": {
+                      "@d": "M31.797 0.191c-0.264-0.256-0.686-0.25-0.942 0.015l-13.328 13.326c-0.598 0.581 0.342 1.543 0.942 0.942l13.328-13.326c0.27-0.262 0.27-0.695 0-0.957zM14.472 17.515c-0.264-0.256-0.686-0.25-0.942 0.015l-13.328 13.326c-0.613 0.595 0.34 1.562 0.942 0.942l13.328-13.326c0.27-0.262 0.27-0.695 0-0.957zM1.144 0.205c-0.584-0.587-1.544 0.336-0.942 0.942l30.654 30.651c0.613 0.625 1.563-0.325 0.942-0.942z"
+                    }
+                  }
+                }
+              },
+              {
+                "@class": "modal-body",
+                "p": {
+                  "@class": "mbr-text mbr-fonts-style display-7",
+                  "strong": [
+                    "Voice-Driven",
+                    "Data-Powered",
+                    "CHAT NOW"
+                  ],
+                  "br": "",
+                  "a": [
+                    {
+                      "@href": "https://lisaiceland.typeform.com/to/qBHrYi",
+                      "@target": "_blank",
+                      "@class": "text-primary",
+                      "#text": "L"
+                    },
+                    {
+                      "@href": "avapage.html#header05-21",
+                      "@class": "text-primary",
+                      "#text": "A"
+                    }
+                  ],
+                  "#text": [
+                    "|",
+                    "IVE |",
+                    "VA"
+                  ]
+                },
+                "div": {
+                  "div": {
+                    "@class": "card-img mbr-figure",
+                    "a": {
+                      "@href": "index.html#testimonials06-1i",
+                      "img": {
+                        "@src": "assets/images/mbr-936x688.jpg",
+                        "@alt": "Mobirise",
+                        "@title": ""
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "@class": "modal-footer",
+                "div": {
+                  "@class": "mbr-section-btn",
+                  "a": {
+                    "@class": "btn btn-md btn-primary display-4",
+                    "@href": "index.html#testimonials06-1i",
+                    "span": {
+                      "@class": "mbri-plus mbr-iconfont mbr-iconfont-btn"
+                    },
+                    "#text": "LEARN MORE"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "input": {
+        "@name": "cookieData",
+        "@type": "hidden",
+        "@data-cookie-colortext": "#424a4d",
+        "@data-cookie-colorbg": "rgba(234, 239, 241, 0.99)",
+        "@data-cookie-colorbutton": "#ffffff",
+        "@data-cookie-colorlink": "#424a4d",
+        "@data-cookie-underlinelink": "true",
+        "@data-cookie-text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+      }
+    }
+  }
+}
